@@ -147,13 +147,13 @@
     display: flex;
     padding-left: 20px;
 }
-
 .barcode {
     background-image: url('barcode\ \(1\).gif');
     height: 70px;
     width: 200px;
     background-size: 100% 100%;
     background-position: left;
+    margin-top: -100px;
 }
 
 .check {
@@ -161,7 +161,16 @@
     padding-top: 55px;
     padding-left: 50px;
     font-size: 20px;
+    margin-top: -100px;
 }
+
+.chief {
+    padding-left: 200px;
+    padding-top: 10px;
+    font-size: 20px;
+    margin-top: -80px;
+}
+
 .sign {
     background-image: url('signature.png');
     height: 90px;
@@ -179,16 +188,11 @@
     margin-top: -90px;
 }
 
-.chief {
-    padding-left: 200px;
-    padding-top: 10px;
-    font-size: 20px;
-}
-
 .end {
     background-color: rgb(246, 178, 76);
     color: white;
     height: 22px;
     text-align: center;
     margin: auto;
+    margin-top: -23px;
 }
