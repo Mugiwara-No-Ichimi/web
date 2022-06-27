@@ -1,0 +1,178 @@
+.main {
+    width: 50%;
+    margin: auto;
+}
+
+.blue {
+    background-color: darkblue;
+    color: white;
+    text-transform: capitalize;
+    display: flex;
+    height: 150px;
+}
+
+.image {
+    background-image: url('tu\ logo.png');
+    height: 170px;
+    width: 120px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding: 5px;
+}
+
+.all {
+    padding-left: 10px;
+}
+
+.text1 {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 50px;
+    font-style: inherit;
+}
+
+.text3 {
+    text-align: center;
+    font-size: 20px;
+    font-style: inherit;
+}
+
+.text4 {
+    font-size: 15px;
+    font-style: inherit;
+    text-align: end;
+}
+
+.gap {
+    height: 5px;
+    background-color: rgb(245, 250, 186);
+}
+
+.stdinfo {
+    background-color: rgb(245, 250, 186);
+    height: 295px;
+}
+
+.student {
+    background-color: red;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 32px;
+    width: 50%;
+    margin: auto;
+}
+
+.position {
+    display: flex;
+}
+
+.allno {
+    /* padding: 10px; */
+    font-size: medium;
+    text-align: left;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.stdphoto {
+    background-position: right;
+    background-image: url('stdphoto.jpg');
+    height: 195px;
+    width: 175px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: -37px;
+    margin-right: 1px;
+}
+
+.same {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.textimage {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: red; */
+}
+
+.colors {
+    color: darkblue;
+    text-transform: capitalize;
+}
+
+.t1 {
+    padding: 5px;
+}
+
+.t2 {
+    padding: 5px;
+}
+
+.t3 {
+    padding: 5px;
+}
+
+.t4 {
+    padding: 5px;
+}
+
+.t5 {
+    padding: 5px;
+    padding-top: 30px;
+}
+
+.t6 {
+    padding: 5px;
+    padding-left: 25px;
+}
+
+.t7 {
+    padding: 5px;
+    padding-left: 25px;
+}
+
+.t8 {
+    padding: 5px;
+}
+
+.slide {
+    display: flex;
+    padding-left: 20px;
+}
+
+.barcode {
+    background-image: url('barcode\ \(1\).gif');
+    height: 70px;
+    width: 200px;
+    background-size: 100% 100%;
+    background-position: left;
+}
+
+.check {
+    text-decoration: overline;
+    padding-top: 55px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.chief {
+    padding-left: 200px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.end {
+    background-color: rgb(246, 178, 76);
+    color: white;
+    height: 22px;
+    text-align: center;
+    margin: auto;
+}
