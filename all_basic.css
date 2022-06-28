@@ -1,0 +1,80 @@
+.ok {
+    font-size: 50px;
+    text-align: center;
+    background-color: lightblue;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-style: inset;
+    border-width: 5px;
+    background-image: url("long\ horizontal\ image.webp");
+    background-position: left top;
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+    margin-bottom: 20px;
+}
+
+#roshan {
+    font-style: italic;
+    margin-bottom: 5px;
+    font-size: 50px;
+    text-align: left;
+    border-left: 7px solid red;
+    padding-left: 5px;
+}
+
+#essay {
+    font-display: initial;
+    padding-left: 20px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.style {
+    border-radius: 30px;
+    text-shadow: 5px solid rgb(14, 138, 180);
+    margin-left: 5px;
+    background-color: rgb(222, 225, 225);
+    border: 2px solid gray;
+    outline: 3px solid grey;
+    outline-offset: 1px;
+    font-size: 30px;
+    padding-left: 5px;
+    margin-right: 1170px;
+    margin-bottom: 10px;
+}
+
+#mythought {
+    text-transform: capitalize;
+    text-indent: 30px;
+    text-decoration: underline 2px solid burlywood;
+    margin-bottom: 5px;
+}
+
+.main {
+    border-radius: 30px;
+    display: flexbox;
+    padding: 30px;
+    flex-direction: row;
+    background-color: lightblue;
+    justify-content: center;
+    margin: 10px;
+}
+
+.op {
+    text-transform: uppercase;
+    border-radius: 20px;
+    border-style: inset;
+    padding: 10px;
+    margin: 5px;
+    background-color: lightgreen;
+}
+
+.home {
+    margin: 10px;
+    text-shadow: 0 0 3px #ff0000;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: Tahoma, Verdana, sans-serif;
+}
