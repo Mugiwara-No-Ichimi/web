@@ -1,0 +1,116 @@
+.main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    background-color: lightwhite;
+    height: 600px;
+}
+
+.facebook {
+    color: blue;
+    font-size: 55px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    font-style: klavika;
+    ;
+}
+
+.login {
+    background-color: white;
+    height: 450px;
+    width: 60%;
+    margin: auto;
+    padding-top: 20px;
+    box-shadow: 2px 3px 15px lightgray;
+    border-radius: 10px;
+}
+
+.login {
+    font-size: 20px;
+}
+
+.text {
+    width: 76%;
+    height: 7px;
+    padding: 20px;
+    display: flex;
+    margin-left: 38px;
+    margin-top: 25px;
+    margin-bottom: 16px;
+    font-size: 20px;
+    border-radius: 7px;
+    border-color: rgb(179, 176, 176);
+    border-style: solid;
+}
+
+.text1 {
+    height: 7px;
+    padding: 20px;
+    margin-left: 38px;
+    width: 390px;
+    font-size: 20px;
+    margin-bottom: 16px;
+    border-radius: 7px;
+    border-color: rgb(179, 176, 176);
+    border-style: solid;
+}
+
+.log {
+    background-color: blue;
+    border-radius: 7px;
+    height: 45px;
+    width: 435px;
+    border-color: blue;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.password {
+    width: 100px;
+}
+
+a.iknow:link,
+a.iknow:visited {
+    color: blue;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+a.iknow:hover {
+    text-decoration: underline;
+}
+
+.or {
+    margin-bottom: 20px;
+}
+
+.line {
+    display: flex;
+    text-align: center;
+    margin-left: 40px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    color: rgb(145, 142, 142);
+}
+
+a.new:link,
+a.new:visited {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    background-size: 50px;
+    border-radius: 7px;
+    border: solid green;
+    text-align: center;
+    padding: 14px 25px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+a.new:hover {
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
