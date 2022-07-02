@@ -241,6 +241,7 @@
         position: absolute;
         top: 450px;
         margin-left: 60px;
+        margin-top:20px;
     }
     
     .c81 {
@@ -257,4 +258,5 @@
         background-color: aliceblue;
         padding: 3px;
         margin-left: 60px;
+        margin-top:20px;
     }
